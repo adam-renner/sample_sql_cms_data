@@ -1,6 +1,6 @@
 # This is a sample
 
-The txt file in this repo is a deidentified and simplified version of a sql ETL and analysis workflow for medical data. I've created many similar scripts in work settings, but can't share those files for obvious reasons:
+The file in this repo is a deidentified and simplified version of a sql ETL and analysis workflow for medical data. I've created many similar scripts in work settings, but can't share those files for obvious reasons:
 
 1. They contain private medical information
 2. They are proprietary property and contained proprietary data from the company where I worked
