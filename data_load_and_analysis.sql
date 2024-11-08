@@ -1,6 +1,6 @@
 /* The SQL below was written using sample data from CMS. This was originally written for a MySQL database with INFILE load settings enabled and may need to be adjusted for use in other database systems.
  The data can be found at: https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-claims-synthetic-public-use-files/cms-2008-2010-data-entrepreneurs-synthetic-public-use-file-de-synpuf/de10-sample-1
- /*
+ */
 
 -- Re-creating database
 DROP DATABASE IF EXISTS desynpuf_data_2008;
